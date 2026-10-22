@@ -1,0 +1,6 @@
+{
+  "name": "ORACLIME — Service Coordination Platform",
+  "description": "Structured B2B & B2T AC and home service coordination platform connecting partner businesses, verified technicians, and customer support operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
